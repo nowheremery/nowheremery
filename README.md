@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nowheremery
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning basic of Front-End (HTML, CSS, JAVASCRIPT )
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me --->
